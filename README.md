@@ -1,10 +1,10 @@
-# NLW eSports
+# NLW eSports - Desafio
 
 >Trilha Explorer
 
 ![preview](./.github/preview.png)
 
-Projeto construído no evento Next Level Weel da Rocketseat.
+Após a finalização do evento Rocketseat NLW, foi proposto este desafio, onde criei uma página de acordo com os meus interesses.
 
 >[Clique aqui para acessar o projeto](https://julielzissimo.github.io/NLW-eSports/)
 
